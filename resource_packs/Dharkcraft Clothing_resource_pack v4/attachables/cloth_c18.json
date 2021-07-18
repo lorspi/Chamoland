@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","minecraft:attachable":{"description":{"identifier":"cloth:c18","materials":{"default":"armor","enchanted":"armor_enchanted"},"textures":{"default":"textures/entity/pamobile/cloth_c18","enchanted":"textures/misc/enchanted_item_glint"},"geometry":{"default":"geometry.humanoid.armor.boots"},"render_controllers":["controller.render.armor"]}}}

@@ -1,0 +1,29 @@
+{
+	"format_version": "1.16.200",
+	"minecraft:block": {
+		"description": {
+			"identifier": "thelake:lucky_block_clap"
+		},
+		"components": {
+			"minecraft:flammable": {
+				"flame_odds": 0,
+				"burn_odds": 0
+			},
+			"minecraft:on_player_destroyed": {
+				"event": "outcomes",
+				"target": "self"
+			},
+			"minecraft:loot": "loot_tables/blocks/lucky_block_clap.json",
+			"minecraft:destroy_time": 0.1,
+			"minecraft:explosion_resistance": 100,
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "lucky_block_clap",
+					"render_method": "opaque"
+				}
+			},
+			"minecraft:geometry": "geometry.lucky_block_clap"
+		},
+		"events": {}
+	}
+}

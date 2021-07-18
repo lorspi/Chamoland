@@ -1,0 +1,40 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "This add-on adds a new Lightsabers to help you fight monsters,\nThis is the addon, hope you enjoy it,\nGood luck. by AmGamer766",
+    "name": "Lightsaber ‎addon",
+    "uuid": "e8803249-cca4-48a9-a409-8b7612ebc324",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "This add-on adds a new Lightsabers to help you fight monsters,\nThis is the addon, hope you enjoy it,\nGood luck. by AmGamer766",
+      "type": "data",
+      "uuid": "36d2be1b-5472-4d90-94b4-6cb9d43dd46c",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "d737a139-2e28-4981-ad77-8d350676179b",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

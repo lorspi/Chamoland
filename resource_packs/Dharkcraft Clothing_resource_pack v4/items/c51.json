@@ -1,0 +1,22 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "category": "equipment",
+      "identifier": "cloth:c51"
+    },
+    "components": {
+      "minecraft:creative_category": {
+        "parent": "itemGroup.name.helmet"
+      },
+      "minecraft:icon": {
+        "texture": "cloth_c51"
+      },
+      "minecraft:armor": {
+        "texture_type": "obsidian"
+      },
+      "minecraft:render_offsets": "helmets",
+      "minecraft:display_name": {}
+    }
+  }
+}

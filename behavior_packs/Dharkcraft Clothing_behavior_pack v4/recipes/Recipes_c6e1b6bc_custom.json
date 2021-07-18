@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "recipes_44f6880e"
+    },
+    "tags": [
+      "stonecutter"
+    ],
+    "priority": 1,
+    "ingredients": [
+      {
+        "item": "minecraft:iron_chestplate",
+        "data": 0
+      }
+    ],
+    "result": {
+      "item": "cloth:c163",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:block": {
+    "description": {
+      "identifier": "cloth:x"
+    },
+    "components": {
+      "minecraft:destroy_time": 4.0,
+      "minecraft:friction": 0.6,
+	  "minecraft:block_light_emission": 0.0,
+      "minecraft:block_light_absorption": 0.0,
+	  "minecraft:entity_collision": {
+		"origin": [-5.85, 0, -5.2],
+		"size": [11.7, 1.8, 11.4]
+	  },
+	  "minecraft:pick_collision": {
+		"origin": [-5.85, 0, -5.2],
+		"size": [11.7, 1.8, 11.4]
+	  },
+	  "minecraft:geometry": "geometry.x",
+      "minecraft:material_instances" : {
+        "*" : {
+          "texture": "x",
+          "render_method": "opaque"
+        }
+      }
+    }
+  }
+}

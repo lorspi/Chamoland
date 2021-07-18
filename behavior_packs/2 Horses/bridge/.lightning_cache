@@ -1,0 +1,51 @@
+{
+	"entity": {
+		"BP/entities/horse.json": {
+			"events": [
+				"minecraft:entity_spawned",
+				"minecraft:entity_born",
+				"minecraft:on_tame",
+				"minecraft:ageable_grow_up",
+				"minecraft:horse_saddled",
+				"minecraft:horse_unsaddled",
+				"minecraft:make_white",
+				"minecraft:make_creamy",
+				"minecraft:make_chestnut",
+				"minecraft:make_brown",
+				"minecraft:make_black",
+				"minecraft:make_gray",
+				"minecraft:make_darkbrown"
+			],
+			"bridge_core_tags": [],
+			"identifiers": [
+				"minecraft:horse"
+			],
+			"animation_references": [],
+			"families": [
+				"horse",
+				"mob"
+			],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/entities/skeleton_horse.json": {
+			"events": [
+				"minecraft:entity_spawned",
+				"minecraft:set_trap",
+				"minecraft:spring_trap"
+			],
+			"bridge_core_tags": [],
+			"identifiers": [
+				"minecraft:skeleton_horse"
+			],
+			"animation_references": [],
+			"families": [
+				"skeletonhorse",
+				"undead",
+				"mob"
+			],
+			"custom_commands": [],
+			"custom_components": []
+		}
+	}
+}

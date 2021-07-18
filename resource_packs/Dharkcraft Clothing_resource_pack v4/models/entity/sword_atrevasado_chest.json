@@ -1,0 +1,68 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.sword_atrevasado_chest",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 4,
+				"visible_bounds_offset": [0, 1, 0]
+			},
+			"bones": [
+				{
+					"name": "body",
+					"pivot": [0, 24, 0],
+					"mirror": true,
+					"cubes": [
+						{"origin": [-4, 12, -2], "size": [8, 12, 4], "inflate": 0.3, "uv": [16, 32]}
+					]
+				},
+				{
+					"name": "bone",
+					"parent": "body",
+					"pivot": [-1, 16, 2.5],
+					"rotation": [-12.5, 0, 0],
+					"cubes": [
+						{"origin": [-2, 15, -5], "size": [2, 2, 8], "uv": [0, 17], "mirror": true},
+						{"origin": [-2, 15, 3], "size": [2, 2, 2], "uv": [56, 25], "mirror": true}
+					]
+				},
+				{
+					"name": "bone2",
+					"parent": "bone",
+					"pivot": [-1, 16, -2.5],
+					"rotation": [-12.5, 0, 0],
+					"cubes": [
+						{"origin": [-2, 14, -13], "size": [2, 2, 9], "inflate": -0.2, "pivot": [-1, 16, -2], "rotation": [-5, 0, 0], "uv": [0, 0], "mirror": true}
+					]
+				},
+				{
+					"name": "bone3",
+					"parent": "bone2",
+					"pivot": [-1, 16, -6.5],
+					"cubes": [
+						{"origin": [-2, 13, -19], "size": [2, 2, 8], "inflate": -0.5, "pivot": [-1, 16, -6.5], "rotation": [-22.5, 0, 0], "uv": [14, 54], "mirror": true}
+					]
+				},
+				{
+					"name": "leftArm",
+					"pivot": [-7, 24, 0],
+					"mirror": true,
+					"cubes": [
+						{"origin": [-8, 12, -2], "size": [4, 12, 4], "inflate": 0.35, "uv": [48, 48], "mirror": false}
+					]
+				},
+				{
+					"name": "rightArm",
+					"pivot": [7, 24, 0],
+					"mirror": true,
+					"cubes": [
+						{"origin": [4, 12, -2], "size": [4, 12, 4], "inflate": 0.35, "uv": [48, 48]}
+					]
+				}
+			]
+		}
+	]
+}

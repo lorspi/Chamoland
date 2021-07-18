@@ -1,0 +1,13 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lightsabers:green_crystal",
+      "category": "Equipment"
+    },
+    "components": {
+      "minecraft:icon": "lightsabers:green_crystal",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lightsaber_blue_ab23374c"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ABA",
+      "CDA",
+      "AEA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:iron_ingot",
+        "data": 0
+      },
+      "B": {
+        "item": "lightsabers:blue_crystal",
+        "data": 0
+      },
+      "C": {
+        "item": "minecraft:stone_button",
+        "data": 0
+      },
+      "D": {
+        "item": "minecraft:redstone",
+        "data": 0
+      },
+      "E": {
+        "item": "minecraft:glowstone_dust",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "lightsabers:lightsaber_blue",
+      "count": 1
+    }
+  }
+}

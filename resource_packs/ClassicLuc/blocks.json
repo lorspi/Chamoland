@@ -1,0 +1,12 @@
+{
+ "format_version":
+  [ 1,  1, 0 ],
+ "thelake:lucky_block": {
+  "textures": "lucky_block",
+  "sound": "stone"
+ },
+ "thelake:lucky_block_vene": {
+  "textures": "lucky_block_vene",
+  "sound": "stone"
+ }
+}

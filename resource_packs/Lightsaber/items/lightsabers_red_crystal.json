@@ -1,0 +1,13 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lightsabers:red_crystal",
+      "category": "Equipment"
+    },
+    "components": {
+      "minecraft:icon": "lightsabers:red_crystal",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}

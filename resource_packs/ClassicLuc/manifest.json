@@ -1,0 +1,40 @@
+{
+  "format_version" : 2,
+  "header" : {
+    "version" : [
+      0,
+      0,
+      3
+    ],
+    "min_engine_version" : [
+      1,
+      14,
+      0
+    ],
+    "description" : "§4Created By Lake Resulylmz",
+    "name" : "§l§2Classic §r§gLucky Block §5R",
+    "uuid" : "5E49E7D8-CEE9-47D4-A1EF-C6042F295A48"
+  },
+  "dependencies" : [
+    {
+      "version" : [
+        0,
+        0,
+        1
+      ],
+      "uuid" : "36D40926-B051-420F-A498-1A37A0556C70"
+    }
+  ],
+  "modules" : [
+    {
+      "version" : [
+        0,
+        0,
+        1
+      ],
+      "description" : "Example vanilla resource pack",
+      "type" : "resources",
+      "uuid" : "0A14F62F-609E-488F-9FA0-7192FA574A66"
+    }
+  ]
+}

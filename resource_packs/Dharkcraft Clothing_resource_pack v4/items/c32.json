@@ -1,0 +1,22 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:item": {
+    "description": {
+      "category": "equipment",
+      "identifier": "cloth:c32"
+    },
+    "components": {
+      "minecraft:creative_category": {
+        "parent": "itemGroup.name.boots"
+      },
+      "minecraft:icon": {
+        "texture": "cloth_c32"
+      },
+      "minecraft:armor": {
+        "texture_type": "obsidian"
+      },
+      "minecraft:render_offsets": "boots",
+      "minecraft:display_name": {}
+    }
+  }
+}

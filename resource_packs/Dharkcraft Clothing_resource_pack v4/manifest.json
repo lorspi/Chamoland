@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "Esta es la version 4 creo De Dharkcraft Clothes Pirates update la cual agrega mucha ropa y esta actualización agregara de pirata que tendras que desenterrar de cofres del tesoro by §4Dharkcraft§k§2!!!!",
+    "name": "§2Dharkcraft§gClothes",
+    "uuid": "0af0905d-6c0e-4a84-8b22-737ec0d1a915",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Esta es la version 4 creo De Dharkcraft Clothes Pirates update la cual agrega mucha ropa y esta actualización agregara de pirata que tendras que desenterrar de cofres del tesoro by §4Dharkcraft§k§2!!!!",
+      "type": "resources",
+      "uuid": "bcf95f93-4499-4581-8c1f-a12167a43f87",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

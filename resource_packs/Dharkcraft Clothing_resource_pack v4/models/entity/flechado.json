@@ -1,0 +1,38 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.flechado_heads",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "head",
+					"pivot": [0, 27, 1],
+					"cubes": [
+						{"origin": [-4, 25.5, -4], "size": [8, 8, 8], "inflate": 1.5, "uv": [32, 0]}
+					]
+				},
+				{
+					"name": "arrow",
+					"parent": "head",
+					"pivot": [-1.58333, 33, -0.5],
+					"rotation": [0, 0, -27.5],
+					"cubes": [
+						{"origin": [-9, 32.5, -2], "size": [2, 1, 1], "uv": [0, 0]},
+						{"origin": [-9, 31.5, -1], "size": [2, 3, 1], "uv": [0, 0]},
+						{"origin": [-10, 32.5, -1], "size": [17, 1, 1], "uv": [0, 45]},
+						{"origin": [7, 31.5, -0.5], "size": [2, 3, 0], "pivot": [8, 33, -0.5], "rotation": [22.5, 0, 0], "uv": [60, 0]},
+						{"origin": [7, 31.5, -0.5], "size": [2, 3, 0], "pivot": [8, 33, -0.5], "rotation": [-32.5, 0, 0], "uv": [60, 0]},
+						{"origin": [-9, 32.5, 0], "size": [2, 1, 1], "uv": [0, 0]}
+					]
+				}
+			]
+		}
+	]
+}

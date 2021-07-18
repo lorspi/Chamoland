@@ -1,0 +1,22 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:item": {
+    "description": {
+      "category": "equipment",
+      "identifier": "cloth:c95"
+    },
+    "components": {
+      "minecraft:creative_category": {
+        "parent": "itemGroup.name.chestplate"
+      },
+      "minecraft:icon": {
+        "texture": "cloth_c95"
+      },
+      "minecraft:armor": {
+        "texture_type": "obsidian"
+      },
+      "minecraft:render_offsets": "chestplates",
+      "minecraft:display_name": {}
+    }
+  }
+}

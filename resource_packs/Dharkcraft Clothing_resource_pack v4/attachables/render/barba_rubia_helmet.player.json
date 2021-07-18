@@ -1,0 +1,26 @@
+{
+	"format_version" : "1.10.0",
+	"minecraft:attachable" : {
+		"description" : {
+			"identifier" : "cloth:barba_rubia_helmet",
+			"item" : {
+				"cloth:barba_rubia_helmet" : "query.owner_identifier == 'minecraft:player'"
+			},
+			"materials" : {
+				"default" : "armor",
+				"enchanted" : "armor_enchanted"
+			},
+			"textures" : {
+				"default" : "textures/entity/pamobile/barba_rubia_helmet",
+				"enchanted" : "textures/misc/enchanted_item_glint"
+			},
+			"geometry" : {
+				"default" : "geometry.barba"
+			},
+			"scripts" : {
+				"parent_setup" : "variable.boot_layer_visible = 0.0;"
+			},
+			"render_controllers" : [ "controller.render.armor" ]
+		}
+	}
+}

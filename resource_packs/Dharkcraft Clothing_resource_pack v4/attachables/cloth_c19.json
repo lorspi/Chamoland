@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","minecraft:attachable":{"description":{"identifier":"cloth:c19","materials":{"default":"armor","enchanted":"armor_enchanted"},"textures":{"default":"textures/entity/pamobile/cloth_c19","enchanted":"textures/misc/enchanted_item_glint"},"geometry":{"default":"geometry.humanoid.armor.helmet"},"render_controllers":["controller.render.armor"]}}}

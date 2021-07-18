@@ -1,0 +1,29 @@
+{
+  "minecraft:recipe_shaped" : {
+    "result" : {
+      "count" : 1,
+      "data" : 0,
+      "item" : "if:safe"
+    },
+    "tags" : [
+      "crafting_table"
+    ],
+    "key" : {
+      "A" : {
+        "item" : "minecraft:iron_block"
+      },
+      "B" : {
+        "item" : "minecraft:chest"
+      }
+    },
+    "pattern" : [
+      "AAA",
+      "ABA",
+      "AAA"
+    ],
+    "description" : {
+      "identifier" : "if:safe"
+    }
+  },
+  "format_version" : "1.10"
+}

@@ -1,0 +1,41 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "c11_a7c34bfd"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "A B",
+      "CDE"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:red_flower",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:red_flower",
+        "data": 10
+      },
+      "C": {
+        "item": "minecraft:red_flower",
+        "data": 1
+      },
+      "D": {
+        "item": "minecraft:yellow_flower",
+        "data": 0
+      },
+      "E": {
+        "item": "minecraft:red_flower",
+        "data": 2
+      }
+    },
+    "result": {
+      "item": "cloth:c11",
+      "count": 1
+    }
+  }
+}

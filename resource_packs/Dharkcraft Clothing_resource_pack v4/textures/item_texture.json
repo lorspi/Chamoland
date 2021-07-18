@@ -1,0 +1,774 @@
+{
+	"resource_pack_name" : "Dharkcraft Cloth",
+	"texture_data" : {
+		"clot_c91" : {
+			"textures" : "textures/items/clothes/clot_c91"
+		},
+		"cloth_c1" : {
+			"textures" : "textures/items/clothes/cloth_c1"
+		},
+		"cloth_c10" : {
+			"textures" : "textures/items/clothes/cloth_c10"
+		},
+		"cloth_c100" : {
+			"textures" : "textures/items/clothes/cloth_c100"
+		},
+		"cloth_c101" : {
+			"textures" : "textures/items/clothes/cloth_c101"
+		},
+		"cloth_c102" : {
+			"textures" : "textures/items/clothes/cloth_c102"
+		},
+		"cloth_c103" : {
+			"textures" : "textures/items/clothes/cloth_c103"
+		},
+		"cloth_c104" : {
+			"textures" : "textures/items/clothes/cloth_c104"
+		},
+		"cloth_c105" : {
+			"textures" : "textures/items/clothes/cloth_c105"
+		},
+		"cloth_c106" : {
+			"textures" : "textures/items/clothes/cloth_c106"
+		},
+		"cloth_c107" : {
+			"textures" : "textures/items/clothes/cloth_c107"
+		},
+		"cloth_c108" : {
+			"textures" : "textures/items/clothes/cloth_c108"
+		},
+		"cloth_c109" : {
+			"textures" : "textures/items/clothes/cloth_c109"
+		},
+		"cloth_c11" : {
+			"textures" : "textures/items/clothes/cloth_c11"
+		},
+		"cloth_c110" : {
+			"textures" : "textures/items/clothes/cloth_c110"
+		},
+		"cloth_c111" : {
+			"textures" : "textures/items/clothes/cloth_c111"
+		},
+		"cloth_c112" : {
+			"textures" : "textures/items/clothes/cloth_c112"
+		},
+		"cloth_c113" : {
+			"textures" : "textures/items/clothes/cloth_c113"
+		},
+		"cloth_c114" : {
+			"textures" : "textures/items/clothes/cloth_c114"
+		},
+		"cloth_c115" : {
+			"textures" : "textures/items/clothes/cloth_c115"
+		},
+		"cloth_c116" : {
+			"textures" : "textures/items/clothes/cloth_c116"
+		},
+		"cloth_c117" : {
+			"textures" : "textures/items/clothes/cloth_c117"
+		},
+		"cloth_c118" : {
+			"textures" : "textures/items/clothes/cloth_c118"
+		},
+		"cloth_c119" : {
+			"textures" : "textures/items/clothes/cloth_c119"
+		},
+		"cloth_c12" : {
+			"textures" : "textures/items/clothes/cloth_c12"
+		},
+		"cloth_c120" : {
+			"textures" : "textures/items/clothes/cloth_c120"
+		},
+		"cloth_c121" : {
+			"textures" : "textures/items/clothes/cloth_c121"
+		},
+		"cloth_c122" : {
+			"textures" : "textures/items/clothes/cloth_c122"
+		},
+		"cloth_c123" : {
+			"textures" : "textures/items/clothes/cloth_c123"
+		},
+		"cloth_c124" : {
+			"textures" : "textures/items/clothes/cloth_c124"
+		},
+		"cloth_c125" : {
+			"textures" : "textures/items/clothes/cloth_c125"
+		},
+		"cloth_c126" : {
+			"textures" : "textures/items/clothes/cloth_c126"
+		},
+		"cloth_c127" : {
+			"textures" : "textures/items/clothes/cloth_c127"
+		},
+		"cloth_c128" : {
+			"textures" : "textures/items/clothes/cloth_c128"
+		},
+		"cloth_c129" : {
+			"textures" : "textures/items/clothes/cloth_c129"
+		},
+		"cloth_c13" : {
+			"textures" : "textures/items/clothes/cloth_c13"
+		},
+		"cloth_c130" : {
+			"textures" : "textures/items/clothes/cloth_c130"
+		},
+		"cloth_c131" : {
+			"textures" : "textures/items/clothes/cloth_c131"
+		},
+		"cloth_c132" : {
+			"textures" : "textures/items/clothes/cloth_c132"
+		},
+		"cloth_c133" : {
+			"textures" : "textures/items/clothes/cloth_c133"
+		},
+		"cloth_c134" : {
+			"textures" : "textures/items/clothes/cloth_c134"
+		},
+		"cloth_c135" : {
+			"textures" : "textures/items/clothes/cloth_c135"
+		},
+		"cloth_c136" : {
+			"textures" : "textures/items/clothes/cloth_c136"
+		},
+		"cloth_c137" : {
+			"textures" : "textures/items/clothes/cloth_c137"
+		},
+		"cloth_c138" : {
+			"textures" : "textures/items/clothes/cloth_c138"
+		},
+		"cloth_c139" : {
+			"textures" : "textures/items/clothes/cloth_c139"
+		},
+		"cloth_c14" : {
+			"textures" : "textures/items/clothes/cloth_c14"
+		},
+		"cloth_c140" : {
+			"textures" : "textures/items/clothes/cloth_c140"
+		},
+		"cloth_c141" : {
+			"textures" : "textures/items/clothes/cloth_c141"
+		},
+		"cloth_c142" : {
+			"textures" : "textures/items/clothes/cloth_c142"
+		},
+		"cloth_c143" : {
+			"textures" : "textures/items/clothes/cloth_c143"
+		},
+		"cloth_c144" : {
+			"textures" : "textures/items/clothes/cloth_c144"
+		},
+		"cloth_c145" : {
+			"textures" : "textures/items/clothes/cloth_c145"
+		},
+		"cloth_c146" : {
+			"textures" : "textures/items/clothes/cloth_c146"
+		},
+		"cloth_c147" : {
+			"textures" : "textures/items/clothes/cloth_c147"
+		},
+		"cloth_c148" : {
+			"textures" : "textures/items/clothes/cloth_c148"
+		},
+		"cloth_c149" : {
+			"textures" : "textures/items/clothes/cloth_c149"
+		},
+		"cloth_c15" : {
+			"textures" : "textures/items/clothes/cloth_c15"
+		},
+		"cloth_c150" : {
+			"textures" : "textures/items/clothes/cloth_c150"
+		},
+		"cloth_c151" : {
+			"textures" : "textures/items/clothes/cloth_c151"
+		},
+		"cloth_c152" : {
+			"textures" : "textures/items/clothes/cloth_c152"
+		},
+		"cloth_c153" : {
+			"textures" : [ "textures/items/clothes/cloth_c153" ]
+		},
+		"cloth_c154" : {
+			"textures" : [ "textures/items/clothes/cloth_c154" ]
+		},
+		"cloth_c155" : {
+			"textures" : [ "textures/items/clothes/cloth_c155" ]
+		},
+		"cloth_c156" : {
+			"textures" : [ "textures/items/clothes/cloth_c156" ]
+		},
+		"cloth_c157" : {
+			"textures" : [ "textures/items/clothes/cloth_c157" ]
+		},
+		"cloth_c158" : {
+			"textures" : [ "textures/items/clothes/cloth_c158" ]
+		},
+		"cloth_c159" : {
+			"textures" : [ "textures/items/clothes/cloth_c159" ]
+		},
+		"cloth_c16" : {
+			"textures" : "textures/items/clothes/cloth_c16"
+		},
+		"cloth_c160" : {
+			"textures" : [ "textures/items/clothes/cloth_c160" ]
+		},
+		"cloth_c161" : {
+			"textures" : [ "textures/items/clothes/cloth_c161" ]
+		},
+		"cloth_c162" : {
+			"textures" : [ "textures/items/clothes/cloth_c162" ]
+		},
+		"cloth_c163" : {
+			"textures" : [ "textures/items/clothes/cloth_c163" ]
+		},
+		"cloth_c164" : {
+			"textures" : [ "textures/items/clothes/cloth_c164" ]
+		},
+		"cloth_c165" : {
+			"textures" : [ "textures/items/clothes/cloth_c165" ]
+		},
+		"cloth_c166" : {
+			"textures" : [ "textures/items/clothes/cloth_c166" ]
+		},
+		"cloth_c167" : {
+			"textures" : [ "textures/items/clothes/cloth_c167" ]
+		},
+		"cloth_c168" : {
+			"textures" : [ "textures/items/clothes/cloth_c168" ]
+		},
+		"cloth_c169" : {
+			"textures" : [ "textures/items/clothes/cloth_c169" ]
+		},
+		"cloth_c17" : {
+			"textures" : "textures/items/clothes/cloth_c17"
+		},
+		"cloth_c170" : {
+			"textures" : [ "textures/items/clothes/cloth_c170" ]
+		},
+		"cloth_c171" : {
+			"textures" : [ "textures/items/clothes/cloth_c171" ]
+		},
+		"cloth_c172" : {
+			"textures" : [ "textures/items/clothes/cloth_c172" ]
+		},
+		"cloth_c173" : {
+			"textures" : [ "textures/items/clothes/cloth_c173" ]
+		},
+		"cloth_c174" : {
+			"textures" : [ "textures/items/clothes/cloth_c174" ]
+		},
+		"cloth_c175" : {
+			"textures" : [ "textures/items/clothes/cloth_c175" ]
+		},
+		"cloth_c176" : {
+			"textures" : [ "textures/items/clothes/cloth_c176" ]
+		},
+		"cloth_c177" : {
+			"textures" : [ "textures/items/clothes/cloth_c177" ]
+		},
+		"cloth_c178" : {
+			"textures" : [ "textures/items/clothes/cloth_c178" ]
+		},
+		"cloth_c179" : {
+			"textures" : [ "textures/items/clothes/cloth_c179" ]
+		},
+		"cloth_c18" : {
+			"textures" : "textures/items/clothes/cloth_c18"
+		},
+		"cloth_c180" : {
+			"textures" : [ "textures/items/clothes/cloth_c180" ]
+		},
+		"cloth_c181" : {
+			"textures" : [ "textures/items/clothes/cloth_c181" ]
+		},
+		"cloth_c182" : {
+			"textures" : [ "textures/items/clothes/cloth_c182" ]
+		},
+		"cloth_c183" : {
+			"textures" : [ "textures/items/clothes/cloth_c183" ]
+		},
+		"cloth_c184" : {
+			"textures" : [ "textures/items/clothes/cloth_c184" ]
+		},
+		"cloth_c185" : {
+			"textures" : [ "textures/items/clothes/cloth_c185" ]
+		},
+		"cloth_c186" : {
+			"textures" : [ "textures/items/clothes/cloth_c186" ]
+		},
+		"cloth_c187" : {
+			"textures" : [ "textures/items/clothes/cloth_c187" ]
+		},
+		"cloth_c188" : {
+			"textures" : [ "textures/items/clothes/cloth_c188" ]
+		},
+		"cloth_c189" : {
+			"textures" : [ "textures/items/clothes/cloth_c189" ]
+		},
+		"cloth_c19" : {
+			"textures" : "textures/items/clothes/cloth_c19"
+		},
+		"cloth_c190" : {
+			"textures" : [ "textures/items/clothes/cloth_c190" ]
+		},
+		"cloth_c191" : {
+			"textures" : [ "textures/items/clothes/cloth_c191" ]
+		},
+		"cloth_c192" : {
+			"textures" : [ "textures/items/clothes/cloth_c192" ]
+		},
+		"cloth_c193" : {
+			"textures" : [ "textures/items/clothes/cloth_c193" ]
+		},
+		"cloth_c194" : {
+			"textures" : [ "textures/items/clothes/cloth_c194" ]
+		},
+		"cloth_c195" : {
+			"textures" : [ "textures/items/clothes/cloth_c195" ]
+		},
+		"cloth_c196" : {
+			"textures" : [ "textures/items/clothes/cloth_c196" ]
+		},
+		"cloth_c197" : {
+			"textures" : [ "textures/items/clothes/cloth_c197" ]
+		},
+		"cloth_c198" : {
+			"textures" : [ "textures/items/clothes/cloth_c198" ]
+		},
+		"cloth_c199" : {
+			"textures" : [ "textures/items/clothes/cloth_c199" ]
+		},
+		"cloth_c2" : {
+			"textures" : "textures/items/clothes/cloth_c2"
+		},
+		"cloth_c20" : {
+			"textures" : "textures/items/clothes/cloth_c20"
+		},
+		"cloth_c200" : {
+			"textures" : [ "textures/items/clothes/cloth_c200" ]
+		},
+		"cloth_c201" : {
+			"textures" : [ "textures/items/clothes/cloth_c201" ]
+		},
+		"cloth_c202" : {
+			"textures" : [ "textures/items/clothes/cloth_c202" ]
+		},
+		"cloth_c203" : {
+			"textures" : [ "textures/items/clothes/cloth_c203" ]
+		},
+		"cloth_c21" : {
+			"textures" : "textures/items/clothes/cloth_c21"
+		},
+		"cloth_c22" : {
+			"textures" : "textures/items/clothes/cloth_c22"
+		},
+		"cloth_c23" : {
+			"textures" : "textures/items/clothes/cloth_c23"
+		},
+		"cloth_c24" : {
+			"textures" : "textures/items/clothes/cloth_c24"
+		},
+		"cloth_c25" : {
+			"textures" : "textures/items/clothes/cloth_c25"
+		},
+		"cloth_c26" : {
+			"textures" : "textures/items/clothes/cloth_c26"
+		},
+		"cloth_c27" : {
+			"textures" : "textures/items/clothes/cloth_c27"
+		},
+		"cloth_c28" : {
+			"textures" : "textures/items/clothes/cloth_c28"
+		},
+		"cloth_c29" : {
+			"textures" : "textures/items/clothes/cloth_c29"
+		},
+		"cloth_c3" : {
+			"textures" : "textures/items/clothes/cloth_c3"
+		},
+		"cloth_c30" : {
+			"textures" : "textures/items/clothes/cloth_c30"
+		},
+		"cloth_c31" : {
+			"textures" : "textures/items/clothes/cloth_c31"
+		},
+		"cloth_c32" : {
+			"textures" : "textures/items/clothes/cloth_c32"
+		},
+		"cloth_c33" : {
+			"textures" : "textures/items/clothes/cloth_c33"
+		},
+		"cloth_c34" : {
+			"textures" : "textures/items/clothes/cloth_c34"
+		},
+		"cloth_c35" : {
+			"textures" : "textures/items/clothes/cloth_c35"
+		},
+		"cloth_c36" : {
+			"textures" : "textures/items/clothes/cloth_c36"
+		},
+		"cloth_c37" : {
+			"textures" : "textures/items/clothes/cloth_c37"
+		},
+		"cloth_c38" : {
+			"textures" : "textures/items/clothes/cloth_c38"
+		},
+		"cloth_c39" : {
+			"textures" : "textures/items/clothes/cloth_c39"
+		},
+		"cloth_c4" : {
+			"textures" : "textures/items/clothes/cloth_c4"
+		},
+		"cloth_c40" : {
+			"textures" : "textures/items/clothes/cloth_c40"
+		},
+		"cloth_c41" : {
+			"textures" : "textures/items/clothes/cloth_c41"
+		},
+		"cloth_c42" : {
+			"textures" : "textures/items/clothes/cloth_c42"
+		},
+		"cloth_c43" : {
+			"textures" : "textures/items/clothes/cloth_c43"
+		},
+		"cloth_c44" : {
+			"textures" : "textures/items/clothes/cloth_c44"
+		},
+		"cloth_c45" : {
+			"textures" : "textures/items/clothes/cloth_c45"
+		},
+		"cloth_c46" : {
+			"textures" : "textures/items/clothes/cloth_c46"
+		},
+		"cloth_c47" : {
+			"textures" : "textures/items/clothes/cloth_c47"
+		},
+		"cloth_c48" : {
+			"textures" : "textures/items/clothes/cloth_c48"
+		},
+		"cloth_c49" : {
+			"textures" : "textures/items/clothes/cloth_c49"
+		},
+		"cloth_c5" : {
+			"textures" : "textures/items/clothes/cloth_c5"
+		},
+		"cloth_c50" : {
+			"textures" : "textures/items/clothes/cloth_c50"
+		},
+		"cloth_c51" : {
+			"textures" : "textures/items/clothes/cloth_c51"
+		},
+		"cloth_c52" : {
+			"textures" : "textures/items/clothes/cloth_c52"
+		},
+		"cloth_c53" : {
+			"textures" : "textures/items/clothes/cloth_c53"
+		},
+		"cloth_c54" : {
+			"textures" : "textures/items/clothes/cloth_c54"
+		},
+		"cloth_c55" : {
+			"textures" : "textures/items/clothes/cloth_c55"
+		},
+		"cloth_c56" : {
+			"textures" : "textures/items/clothes/cloth_c56"
+		},
+		"cloth_c57" : {
+			"textures" : "textures/items/clothes/cloth_c57"
+		},
+		"cloth_c58" : {
+			"textures" : "textures/items/clothes/cloth_c58"
+		},
+		"cloth_c59" : {
+			"textures" : "textures/items/clothes/cloth_c59"
+		},
+		"cloth_c6" : {
+			"textures" : "textures/items/clothes/cloth_c6"
+		},
+		"cloth_c60" : {
+			"textures" : "textures/items/clothes/cloth_c60"
+		},
+		"cloth_c61" : {
+			"textures" : "textures/items/clothes/cloth_c61"
+		},
+		"cloth_c62" : {
+			"textures" : "textures/items/clothes/cloth_c62"
+		},
+		"cloth_c63" : {
+			"textures" : "textures/items/clothes/cloth_c63"
+		},
+		"cloth_c64" : {
+			"textures" : "textures/items/clothes/cloth_c64"
+		},
+		"cloth_c65" : {
+			"textures" : "textures/items/clothes/cloth_c65"
+		},
+		"cloth_c66" : {
+			"textures" : "textures/items/clothes/cloth_c66"
+		},
+		"cloth_c67" : {
+			"textures" : "textures/items/clothes/cloth_c67"
+		},
+		"cloth_c68" : {
+			"textures" : "textures/items/clothes/cloth_c68"
+		},
+		"cloth_c69" : {
+			"textures" : "textures/items/clothes/cloth_c69"
+		},
+		"cloth_c7" : {
+			"textures" : "textures/items/clothes/cloth_c7"
+		},
+		"cloth_c70" : {
+			"textures" : "textures/items/clothes/cloth_c70"
+		},
+		"cloth_c71" : {
+			"textures" : "textures/items/clothes/cloth_c71"
+		},
+		"cloth_c72" : {
+			"textures" : "textures/items/clothes/cloth_c72"
+		},
+		"cloth_c73" : {
+			"textures" : "textures/items/clothes/cloth_c73"
+		},
+		"cloth_c74" : {
+			"textures" : "textures/items/clothes/cloth_c74"
+		},
+		"cloth_c75" : {
+			"textures" : "textures/items/clothes/cloth_c75"
+		},
+		"cloth_c76" : {
+			"textures" : "textures/items/clothes/cloth_c76"
+		},
+		"cloth_c77" : {
+			"textures" : "textures/items/clothes/cloth_c77"
+		},
+		"cloth_c78" : {
+			"textures" : "textures/items/clothes/cloth_c78"
+		},
+		"cloth_c79" : {
+			"textures" : "textures/items/clothes/cloth_c79"
+		},
+		"cloth_c8" : {
+			"textures" : "textures/items/clothes/cloth_c8"
+		},
+		"cloth_c80" : {
+			"textures" : "textures/items/clothes/cloth_c80"
+		},
+		"cloth_c81" : {
+			"textures" : "textures/items/clothes/cloth_c81"
+		},
+		"cloth_c82" : {
+			"textures" : "textures/items/clothes/cloth_c82"
+		},
+		"cloth_c83" : {
+			"textures" : "textures/items/clothes/cloth_c83"
+		},
+		"cloth_c84" : {
+			"textures" : "textures/items/clothes/cloth_c84"
+		},
+		"cloth_c85" : {
+			"textures" : "textures/items/clothes/cloth_c85"
+		},
+		"cloth_c86" : {
+			"textures" : "textures/items/clothes/cloth_c86"
+		},
+		"cloth_c87" : {
+			"textures" : "textures/items/clothes/cloth_c87"
+		},
+		"cloth_c9" : {
+			"textures" : "textures/items/clothes/cloth_c9"
+		},
+		"cloth_c90" : {
+			"textures" : "textures/items/clothes/cloth_c90"
+		},
+		"cloth_c92" : {
+			"textures" : "textures/items/clothes/cloth_c92"
+		},
+		"cloth_c93" : {
+			"textures" : "textures/items/clothes/cloth_c93"
+		},
+		"cloth_c94" : {
+			"textures" : "textures/items/clothes/cloth_c94"
+		},
+		"cloth_c95" : {
+			"textures" : "textures/items/clothes/cloth_c95"
+		},
+		"cloth_c96" : {
+			"textures" : "textures/items/clothes/cloth_c96"
+		},
+		"cloth_c97" : {
+			"textures" : "textures/items/clothes/cloth_c97"
+		},
+		"cloth_c98" : {
+			"textures" : "textures/items/clothes/cloth_c98"
+		},
+		"cloth_c99" : {
+			"textures" : "textures/items/clothes/cloth_c99"
+		},
+		"cloth_pirata_1" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_1" ]
+		},
+		"cloth_pirata_10" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_10" ]
+		},
+		"cloth_pirata_11" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_11" ]
+		},
+		"cloth_pirata_12" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_12" ]
+		},
+		"cloth_pirata_13" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_13" ]
+		},
+		"cloth_pirata_14" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_14" ]
+		},
+		"cloth_pirata_15" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_15" ]
+		},
+		"cloth_pirata_16" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_16" ]
+		},
+		"cloth_pirata_17" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_17" ]
+		},
+		"cloth_pirata_18" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_18" ]
+		},
+		"cloth_pirata_19" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_19" ]
+		},
+		"cloth_pirata_2" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_2" ]
+		},
+		"cloth_pirata_20" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_20" ]
+		},
+		"cloth_pirata_21" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_21" ]
+		},
+		"cloth_pirata_22" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_22" ]
+		},
+		"cloth_pirata_23" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_23" ]
+		},
+		"cloth_pirata_24" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_24" ]
+		},
+		"cloth_pirata_25" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_25" ]
+		},
+		"cloth_pirata_26" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_26" ]
+		},
+		"cloth_pirata_27" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_27" ]
+		},
+		"cloth_pirata_28" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_28" ]
+		},
+		"cloth_pirata_29" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_29" ]
+		},
+		"cloth_pirata_3" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_3" ]
+		},
+		"cloth_pirata_30" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_30" ]
+		},
+		"cloth_pirata_31" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_31" ]
+		},
+		"cloth_pirata_32" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_32" ]
+		},
+		"cloth_pirata_33" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_33" ]
+		},
+		"cloth_pirata_34" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_34" ]
+		},
+		"cloth_pirata_35" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_35" ]
+		},
+		"cloth_pirata_36" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_36" ]
+		},
+		"cloth_pirata_37" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_37" ]
+		},
+		"cloth_pirata_38" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_38" ]
+		},
+		"cloth_pirata_39" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_39" ]
+		},
+		"cloth_pirata_4" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_4" ]
+		},
+		"cloth_pirata_40" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_40" ]
+		},
+		"cloth_pirata_41" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_41" ]
+		},
+		"cloth_pirata_42" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_42" ]
+		},
+		"cloth_pirata_43" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_43" ]
+		},
+		"cloth_pirata_44" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_44" ]
+		},
+		"cloth_pirata_5" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_5" ]
+		},
+		"cloth_pirata_6" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_6" ]
+		},
+		"cloth_pirata_7" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_7" ]
+		},
+		"cloth_pirata_8" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_8" ]
+		},
+		"cloth_pirata_9" : {
+			"textures" : [ "textures/items/clothes/cloth_pirata_9" ]
+		},
+		"barba_negra_helmet" : {
+			"textures" : [ "textures/items/clothes/barba_negra_helmet" ]
+		},
+		"barba_roja_helmet" : {
+			"textures" : [ "textures/items/clothes/barba_roja_helmet" ]
+		},
+		"barba_rubia_helmet" : {
+			"textures" : [ "textures/items/clothes/barba_rubia_helmet" ]
+		},
+		"chest_chestplate" : {
+			"textures" : [ "textures/items/clothes/chest_chestplate" ]
+		},
+		"flechado_heads_helmet" : {
+			"textures" : [ "textures/items/clothes/flechado_heads_helmet" ]
+		},
+		"jarra_chest" : {
+			"textures" : [ "textures/items/clothes/jarra_chest" ]
+		},
+		"patadepalo_legs" : {
+			"textures" : [ "textures/items/clothes/patadepalo_legs" ]
+		},
+		"pirata_sword_atrevasado_chest" : {
+			"textures" : [ "textures/items/clothes/pirata_sword_atrevasado_chest" ]
+		},
+		"pirata_sword_chest" : {
+			"textures" : [ "textures/items/clothes/pirata_sword_chest" ]
+		},
+		"cinturon_pirata_legs" : {
+			"textures" : [ "textures/items/clothes/cinturon_pirata_legs" ]
+		},
+		"sombrero_pirata_helmet" : {
+			"textures" : [ "textures/items/clothes/sombrero_pirata_helmet" ]
+		}
+	},
+	"texture_name" : "atlas.items"
+}
