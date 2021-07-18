@@ -2,12 +2,10 @@
    "format_version" : "1.14.0",
    "sound_definitions" : {
       "mob.maduro.death" : {
-         "__use_legacy_max_distance" : "true",
          "category" : "hostile",
          "sounds" : [ "sounds/mob/maduro/death" ]
       },
       "mob.maduro.hit" : {
-         "__use_legacy_max_distance" : "true",
          "category" : "hostile",
          "sounds" : [
             "sounds/mob/maduro/hit1",
@@ -17,7 +15,6 @@
          ]
       },
       "mob.maduro.say" : {
-         "__use_legacy_max_distance" : "true",
          "category" : "hostile",
          "sounds" : [
             "sounds/mob/maduro/say1",

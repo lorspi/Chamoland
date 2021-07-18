@@ -112,11 +112,14 @@
 			"osP2gh+oDyyf7KfhvGrEuQaxHdnRxUCk4wAKy4kCQDs=",
 			"qdADNe1gcLxWSNHMivX1Fx7HD/FspKSysqkpk9bm/9c=",
 			"rEtofKfKuUnpfPpC4iOZAUORpZHfkgx8B84C8guWWD8=",
-			"+RylyZKCE4EjeF55t165nh/TsMeUqt7g6AZ8PH3Cdbc="
+			"+RylyZKCE4EjeF55t165nh/TsMeUqt7g6AZ8PH3Cdbc=",
+			"c10k0Xr8W4LDxEy8Yg1zDm4cg01s7rL+41AtHjuYs+c=",
+			"gSKyNdbJ0n1+wNYNhqqSHPqcY28XPF3fkcrfJPs/onU=",
+			"bQg1zYd3NVLoAKVE2IngkBvDFtlGiHRkoED9Vy0dAWU="
 		],
 		"path" : "resource_packs/Comerciantes Applelandia Resource",
 		"uuid" : "01334532-462a-9c36-34b0-251658105093",
-		"version" : "0.0.16"
+		"version" : "0.0.19"
 	},
 	
 	{
@@ -224,7 +227,8 @@
 			"vTGY8uQiahYRO9ocGp/lap1IwTI0ZODpkLLhSl8JX6s=",
 			"LkpwyJ+DAevwcM7vu7HPaONXqns5kvCpqHcz1dVpd+k=",
 			"vpUaj0QvjLyQ4LqZmq17TTEknd9S+1RvWob79UPPPPg=",
-			"xLNqB6YeoZxaXU5O1Ti+AvOr1rjt4ZhZQntz0StfIrc="
+			"xLNqB6YeoZxaXU5O1Ti+AvOr1rjt4ZhZQntz0StfIrc=",
+			"ZXe7EUORmdFu3mLWkh4+UJtwvp/Jw9GIudgUbsHhKL0="
 		],
 		"path" : "behavior_packs/Comerciantes Applelandia Behavior",
 		"uuid" : "bcbd2957-df3c-416f-5edf-8d8c90a2c687",
