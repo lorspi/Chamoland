@@ -4,8 +4,7 @@
       "mob.maduro.death" : {
          "category" : "hostile",
          "sounds" : [
-            "sounds/mob/maduro/asi-como-aparecio-desaparecio",
-            "sounds/mob/maduro/vos-no-sos-venezuela"
+            "sounds/mob/maduro/asi-como-aparecio-desaparecio"
          ]
       },
       "mob.maduro.hit" : {
@@ -16,7 +15,8 @@
             "sounds/mob/maduro/intervencionismo-en-venezuela-no",
             "sounds/mob/maduro/ni-un-milimetro-de-segundo",
             "sounds/mob/maduro/que-quieres-tu-que-yo-haga",
-            "sounds/mob/maduro/te-confiezo-que-no-estoy-actualizado-sobre-ese-tema"
+            "sounds/mob/maduro/te-confiezo-que-no-estoy-actualizado-sobre-ese-tema",
+            "sounds/mob/maduro/vos-no-sos-venezuela"
          ]
       },
       "mob.maduro.say" : {
@@ -27,7 +27,8 @@
             "sounds/mob/maduro/los-penes",
             "sounds/mob/maduro/si-cultivas-pollo-por-ejemplo",
             "sounds/mob/maduro/vamos-a-empezar-la-entrega-de-libros-y-libras",
-            "sounds/mob/maduro/y-de-repente-entro-un-pajarito-chiquitico"
+            "sounds/mob/maduro/y-de-repente-entro-un-pajarito-chiquitico",
+            "sounds/mob/maduro/me-visitan-las-mariposas-debe-ser-que-me-reconocen-como-un-mariposon"
          ]
       }
    }
