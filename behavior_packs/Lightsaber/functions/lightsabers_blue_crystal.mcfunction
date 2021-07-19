@@ -1,1 +1,0 @@
-give @p lightsabers:blue_crystal
