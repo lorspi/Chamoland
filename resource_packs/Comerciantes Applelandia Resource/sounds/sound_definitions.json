@@ -3,23 +3,31 @@
    "sound_definitions" : {
       "mob.maduro.death" : {
          "category" : "hostile",
-         "sounds" : [ "sounds/mob/maduro/death" ]
+         "sounds" : [
+            "sounds/mob/maduro/asi-como-aparecio-desaparecio",
+            "sounds/mob/maduro/vos-no-sos-venezuela"
+         ]
       },
       "mob.maduro.hit" : {
          "category" : "hostile",
          "sounds" : [
-            "sounds/mob/maduro/hit1",
-            "sounds/mob/maduro/hit2",
-            "sounds/mob/maduro/hit3",
-            "sounds/mob/maduro/hit4"
+            "sounds/mob/maduro/con-venezuela-no-te-metas",
+            "sounds/mob/maduro/no-that-way",
+            "sounds/mob/maduro/intervencionismo-en-venezuela-no",
+            "sounds/mob/maduro/ni-un-milimetro-de-segundo",
+            "sounds/mob/maduro/que-quieres-tu-que-yo-haga",
+            "sounds/mob/maduro/te-confiezo-que-no-estoy-actualizado-sobre-ese-tema"
          ]
       },
       "mob.maduro.say" : {
          "category" : "hostile",
          "sounds" : [
-            "sounds/mob/maduro/say1",
-            "sounds/mob/maduro/say2",
-            "sounds/mob/maduro/say3"
+            "sounds/mob/maduro/especulan-y-roban-como-nosotros",
+            "sounds/mob/maduro/hay-que-hacer-como-los-delfines-y-las-delfinas",
+            "sounds/mob/maduro/los-penes",
+            "sounds/mob/maduro/si-cultivas-pollo-por-ejemplo",
+            "sounds/mob/maduro/vamos-a-empezar-la-entrega-de-libros-y-libras",
+            "sounds/mob/maduro/y-de-repente-entro-un-pajarito-chiquitico"
          ]
       }
    }

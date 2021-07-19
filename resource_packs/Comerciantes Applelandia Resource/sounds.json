@@ -7,7 +7,7 @@
                "death" : "mob.maduro.death",
                "hurt" : "mob.maduro.hit"
             },
-            "pitch" : [ 0.80, 1.20 ],
+            "pitch" : [ 1.00, 1.00 ],
             "volume" : 1.0
          }
       }
