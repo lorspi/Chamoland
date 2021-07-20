@@ -12,7 +12,7 @@
         "nutrition": 3,
         "nutritionalValue": "low",
         "saturation_modifier": "low",
-        "can_always_eat": true,
+        "can_always_eat": false,
         "is_meat": false
       }
     }
