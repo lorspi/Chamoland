@@ -54,6 +54,15 @@
 	{
 		"file_system" : "RawPath",
 		"from_disk" : true,
+		"hashes" : [ "hAWxu/+yPU2+iUVUH71Rr0+kDxTzk2BWkuVlfZxx2Dk=" ],
+		"path" : "behavior_packs/StructureImports",
+		"uuid" : "9f26f1b3-2c67-4dcd-9b93-b7d41f20a857",
+		"version" : "0.0.2"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
 		"hashes" : 
 		[
 			"xeeQMuo4g6mIoF3SuX+K5SjIYPff98VmQYyism6dAZE=",
@@ -215,7 +224,8 @@
 			"x2gz1fVWCmkWblCqNN5E6wVgnzIqjE200D+yyhgq89U=",
 			"Fa59I0cZaH1gtZUzks/VcwnTXuqckkZFc9GK32lFdow=",
 			"Moz1VIYAUjVEqI2dRbU7oOMxPR5168AOr/5ebHPTkDM=",
-			"JXdTfvMciyJfvpEaPldwe4SRnza7+KY1njYrh7jugog="
+			"JXdTfvMciyJfvpEaPldwe4SRnza7+KY1njYrh7jugog=",
+			"Z1GkxX7+ktHAA0spJshqwdBBkm4NK84FrJQLgvenImM="
 		],
 		"path" : "behavior_packs/Comerciantes Applelandia Behavior",
 		"uuid" : "bcbd2957-df3c-416f-5edf-8d8c90a2c687",
