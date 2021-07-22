@@ -10,6 +10,9 @@
     },
     "if:driver" : {
       "textures" : "textures\/items\/if_driver"
+    },
+    "if:emergencia" : {
+      "textures" : "textures\/items\/emergencia"
     }
   }
 }

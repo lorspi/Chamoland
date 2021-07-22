@@ -33,7 +33,7 @@
               "wants": [
                 {
                   "item": "appleplus:pila_moneda",
-                  "quantity": 30,
+                  "quantity": 10,
                   "price_multiplier": 0.05
                 }
               ],
@@ -45,8 +45,8 @@
                       "quantity": 1
                     },
                     {
-                      "item": "experience_bottle",
-                      "quantity": 10
+                      "item": "shulker_shell",
+                      "quantity": 1
                     },
                     {
                       "item": "ancient_debris",
@@ -92,6 +92,29 @@
               ],
               "trader_exp": 2,
               "max_uses": 15,
+              "reward_exp": false
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "appleplus:moneda",
+                  "quantity": 5,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "experience_bottle",
+                  "quantity": 20
+                }
+              ],
+              "trader_exp": 2,
+              "max_uses": 99999999,
               "reward_exp": false
             }
           ]
