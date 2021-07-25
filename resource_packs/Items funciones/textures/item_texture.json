@@ -13,6 +13,12 @@
     },
     "if:emergencia" : {
       "textures" : "textures\/items\/emergencia"
+    },
+    "if:invocarbolsa" : {
+      "textures" : "textures\/items\/if_invocarbolsa"
+    },
+    "if:bolsa" : {
+      "textures" : "textures\/items\/if_bolsa"
     }
   }
 }

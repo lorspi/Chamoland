@@ -2,3 +2,10 @@ item.if:spawn=§l§eVara de regreso
 item.if:safe=Obtener caja fuerte
 item.if:driver=Obtener caja ambulante
 item.if:emergencia=§l§4Invocador de ayuda
+
+item.if:bolsa.name=§3Traer bolsa mágica
+item.if:bolsa=§3Traer bolsa mágica
+title.if:bolsa_entidad.name=Bolsa mágica
+entity.if:bolsa_entidad.name=Bolsa mágica
+item.if:invocarbolsa.name=Invocar bolsa mágica
+item.if:invocarbolsa=Invocar bolsa mágica

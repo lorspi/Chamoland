@@ -30,6 +30,36 @@
             "sounds/mob/maduro/y-de-repente-entro-un-pajarito-chiquitico",
             "sounds/mob/maduro/me-visitan-las-mariposas-debe-ser-que-me-reconocen-como-un-mariposon"
          ]
+      },
+      "sonidos.atrapada" : {
+         "category" : "ambient",
+         "sounds" : [
+            "sounds/sonidos/atrapada"
+         ]
+      },
+      "sonidos.conchetumadre" : {
+         "category" : "ambient",
+         "sounds" : [
+            "sounds/sonidos/conchetumadre"
+         ]
+      },
+      "sonidos.darkness" : {
+         "category" : "ambient",
+         "sounds" : [
+            "sounds/sonidos/darkness"
+         ]
+      },
+      "sonidos.puerta" : {
+         "category" : "ambient",
+         "sounds" : [
+            "sounds/sonidos/puerta"
+         ]
+      },
+      "sonidos.nothatway" : {
+         "category" : "ambient",
+         "sounds" : [
+            "sounds/mob/maduro/no-that-way"
+         ]
       }
    }
 }
