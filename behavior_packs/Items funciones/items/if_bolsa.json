@@ -17,7 +17,7 @@
 			},
 			"minecraft:cooldown": {
 				"category": "chorusfruit",
-				"duration": 0
+				"duration": 5
 			},
 			"minecraft:creative_category": {
 				"parent": "equipment"
@@ -31,7 +31,7 @@
 			"bundle": {
 				"run_command": {
 					"command": [
-						"tp @e[type=if:bolsa_entidad] @p"
+						"function traerbolsa"
 					]
 				}
 			}

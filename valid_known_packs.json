@@ -7,35 +7,16 @@
 	
 	{
 		"file_system" : "RawPath",
-		"path" : "resource_packs/chemistry",
-		"uuid" : "0fba4063-dba1-4281-9b89-ff9390653530",
-		"version" : "1.0.0"
-	},
-	
-	{
-		"file_system" : "RawPath",
-		"from_disk" : true,
-		"hashes" : 
-		[
-			"lxIGsCdf6bmPNgd8wDJF/DMpWPiI4/VbTKofUMQigWc=",
-			"ZxdVsl9UVkAGXcexTSRnIvqg7LKO4jaJFqHLiiqyzYE=",
-			"R6Gu+sZUQ9D3Ier565VIZJHtNgai127wAyM+mfmn06o=",
-			"mPCXOXGmPPQKK+V9uH5QmI7QiPe/6PvzX7A3X/rDefg=",
-			"2eo8yqpVdlqR+rwakZcYE9xiKZQdCZ4I3P8lOo02fbY=",
-			"uJ7CVJQ8z5zolBmwzRCVVwo6amSFo35UN9fNZlhh9eM=",
-			"5yX5sqrcQEdw0t2n/QaFfDc0fiQrJtkGgRI/2SEnG4k=",
-			"5JE9OTXUUfFeZuS0Jk7A4QgTXFNzVAy/o6cG4qN/8Ag="
-		],
-		"path" : "resource_packs/Items funciones",
-		"uuid" : "96f5cd3d-54b5-4cae-9cdb-b992c425a4ff",
-		"version" : "0.0.10"
-	},
-	
-	{
-		"file_system" : "RawPath",
 		"path" : "resource_packs/vanilla",
 		"uuid" : "0575c61f-a5da-4b7f-9961-ffda2908861e",
 		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "resource_packs/chemistry",
+		"uuid" : "0fba4063-dba1-4281-9b89-ff9390653530",
+		"version" : "1.0.0"
 	},
 	
 	{
@@ -157,6 +138,59 @@
 		"path" : "resource_packs/Dharkcraft Clothing_resource_pack v4",
 		"uuid" : "0af0905d-6c0e-4a84-8b22-737ec0d1a915",
 		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : 
+		[
+			"viuWQmSAhCzp/5wN0p6FNT+LPXdV0SPmZiJsUBS2kPY=",
+			"L39vxarAsWepWxOjjKIZia9lIZCHhEwlXkkAIDol+2w=",
+			"j6gDBKCLcr0CEnC2gjSNNJhLGb/NfcmALc3pQ6wwyKU=",
+			"2FnQL2K0+fGdf7vwJ6KqYIyQvN/fvf2NLgDPVGxe6jo=",
+			"SjleFgItfRxQSXCsGiHXA6xAVjmgXJiU53Be0MOg+QI=",
+			"cFpRSSV5+hROPAit8vUpUqliMZZgs/jCYAjv+JBfAX8=",
+			"VU+lSDZUMuqoQDQWQgo5zy6Cef6FO2O0Eo0xsMamvd8=",
+			"wN+IcHthABXs9bEmovc8jQrwg2V64XIhX6+GV1qL7ss=",
+			"fgAG0xlEBOQYA0ir8mkqS6W2NJvjmWWvUzPCj5XgwGc=",
+			"OKi98GCzuWh/DB+q16Gj/dJdfX0+EeEvvzvyc3zrWkc=",
+			"bDY+NTapfEtf67HESpCSb4oZiw8NSR6NxipeGQf9uIo=",
+			"WRsL5+roEc467t5G9VT4vnyolua9V1KFjIY9q5RfyrE=",
+			"Zpw0wel8jXolIPwn0XKGZbf2FrBwiyKgnFJJh+h0Xwk=",
+			"wLdyUPDl6mDCFH7ycwzf2719nAu+0bSAD4NyKeUcB4c=",
+			"xqnhg/q5i0jJAMjazpqCd4TPup++kJdxhcIpbcKD+jw=",
+			"LvGKGtdnidwII1OyT0VGos6+hh2lrqc3zkbK/cwh9/c=",
+			"nFNkKraEtY7S8BQXUW7mGgNuZLWYm934b6M5RBHaUVo=",
+			"yvpSZz5IT4vgy2od5SMA0MWf1qW3JDRclBOfSOqL8gA=",
+			"9qBuy/SeevO03Jo4BAL6TLtTog1mKdCG3oRYP6C2D1E=",
+			"lRzTmspK4OBTyVr7HlbeBsCkPBqPdxtqKewLAmJimjo=",
+			"dsNE/aE2j4mxzlql576crUbCtb52JjQngNvgHAeRLqc=",
+			"FxcqX/BXM7otrVg698DNl4CDj9ZJy9/qAx/lUWaVhHc="
+		],
+		"path" : "behavior_packs/Items funciones",
+		"uuid" : "4e77ef67-8b7e-4615-80e8-d562661d247c",
+		"version" : "0.0.4"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : 
+		[
+			"lxIGsCdf6bmPNgd8wDJF/DMpWPiI4/VbTKofUMQigWc=",
+			"ZxdVsl9UVkAGXcexTSRnIvqg7LKO4jaJFqHLiiqyzYE=",
+			"R6Gu+sZUQ9D3Ier565VIZJHtNgai127wAyM+mfmn06o=",
+			"mPCXOXGmPPQKK+V9uH5QmI7QiPe/6PvzX7A3X/rDefg=",
+			"2eo8yqpVdlqR+rwakZcYE9xiKZQdCZ4I3P8lOo02fbY=",
+			"uJ7CVJQ8z5zolBmwzRCVVwo6amSFo35UN9fNZlhh9eM=",
+			"5yX5sqrcQEdw0t2n/QaFfDc0fiQrJtkGgRI/2SEnG4k=",
+			"5JE9OTXUUfFeZuS0Jk7A4QgTXFNzVAy/o6cG4qN/8Ag=",
+			"oj4sfBWY3jqonEH/BBAkU5msL0Khsufb8AztluqO/Yg="
+		],
+		"path" : "resource_packs/Items funciones",
+		"uuid" : "96f5cd3d-54b5-4cae-9cdb-b992c425a4ff",
+		"version" : "0.0.11"
 	},
 	
 	{
@@ -446,38 +480,6 @@
 		"path" : "behavior_packs/ExpansiveB",
 		"uuid" : "119e211a-5c12-4f47-bf10-3c4ad4bdb30b",
 		"version" : "1.0.4"
-	},
-	
-	{
-		"file_system" : "RawPath",
-		"from_disk" : true,
-		"hashes" : 
-		[
-			"viuWQmSAhCzp/5wN0p6FNT+LPXdV0SPmZiJsUBS2kPY=",
-			"L39vxarAsWepWxOjjKIZia9lIZCHhEwlXkkAIDol+2w=",
-			"j6gDBKCLcr0CEnC2gjSNNJhLGb/NfcmALc3pQ6wwyKU=",
-			"2FnQL2K0+fGdf7vwJ6KqYIyQvN/fvf2NLgDPVGxe6jo=",
-			"SjleFgItfRxQSXCsGiHXA6xAVjmgXJiU53Be0MOg+QI=",
-			"cFpRSSV5+hROPAit8vUpUqliMZZgs/jCYAjv+JBfAX8=",
-			"VU+lSDZUMuqoQDQWQgo5zy6Cef6FO2O0Eo0xsMamvd8=",
-			"wN+IcHthABXs9bEmovc8jQrwg2V64XIhX6+GV1qL7ss=",
-			"fgAG0xlEBOQYA0ir8mkqS6W2NJvjmWWvUzPCj5XgwGc=",
-			"OKi98GCzuWh/DB+q16Gj/dJdfX0+EeEvvzvyc3zrWkc=",
-			"bDY+NTapfEtf67HESpCSb4oZiw8NSR6NxipeGQf9uIo=",
-			"WRsL5+roEc467t5G9VT4vnyolua9V1KFjIY9q5RfyrE=",
-			"Zpw0wel8jXolIPwn0XKGZbf2FrBwiyKgnFJJh+h0Xwk=",
-			"wLdyUPDl6mDCFH7ycwzf2719nAu+0bSAD4NyKeUcB4c=",
-			"xqnhg/q5i0jJAMjazpqCd4TPup++kJdxhcIpbcKD+jw=",
-			"LvGKGtdnidwII1OyT0VGos6+hh2lrqc3zkbK/cwh9/c=",
-			"nFNkKraEtY7S8BQXUW7mGgNuZLWYm934b6M5RBHaUVo=",
-			"yvpSZz5IT4vgy2od5SMA0MWf1qW3JDRclBOfSOqL8gA=",
-			"9qBuy/SeevO03Jo4BAL6TLtTog1mKdCG3oRYP6C2D1E=",
-			"lRzTmspK4OBTyVr7HlbeBsCkPBqPdxtqKewLAmJimjo=",
-			"dsNE/aE2j4mxzlql576crUbCtb52JjQngNvgHAeRLqc="
-		],
-		"path" : "behavior_packs/Items funciones",
-		"uuid" : "4e77ef67-8b7e-4615-80e8-d562661d247c",
-		"version" : "0.0.4"
 	},
 	
 	{

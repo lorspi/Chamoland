@@ -10,8 +10,7 @@
         "outer" : "slime_outer"
       },
       "geometry" : {
-        "default" : "geometry.slime",
-        "armor" : "geometry.slime.armor"
+        "default" : "geometry.vase"
       },
       "spawn_egg" : {
         "texture" : "if:bolsa",
