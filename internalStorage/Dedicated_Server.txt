@@ -1,16 +1,16 @@
 D:/MEGA/Configuraciones y Partidas de Juegos/Minecraft Bedrock/Chamoland/Servidor-Git/Chamoland/internalStorage/Dedicated_Server.txt
-[2021-07-25 21:12:16 INFO] Starting Server
-[2021-07-25 21:12:16 INFO] Version 1.17.10.04
-[2021-07-25 21:12:16 INFO] Session ID c67417f9-79cb-450b-98ec-b6949c678925
-[2021-07-25 21:12:16 INFO] Level Name: Chamoland
-[2021-07-25 21:12:16 INFO] Game mode: 0 Survival
-[2021-07-25 21:12:16 INFO] Difficulty: 1 EASY
+[2021-07-27 22:28:19 INFO] Starting Server
+[2021-07-27 22:28:19 INFO] Version 1.17.10.04
+[2021-07-27 22:28:19 INFO] Session ID 461e9fdf-df92-40a0-b6e4-1d745803107b
+[2021-07-27 22:28:19 INFO] Level Name: Chamoland
+[2021-07-27 22:28:19 INFO] Game mode: 0 Survival
+[2021-07-27 22:28:19 INFO] Difficulty: 1 EASY
 [INFO] Experiment(s) active: ddi_, biom, scpt, ucft, gtst
 [INFO] opening worlds/Chamoland/db
 [INFO] IPv4 supported, port: 19132
 [INFO] IPv6 supported, port: 19133
-[INFO] IPv4 supported, port: 63690
-[INFO] IPv6 supported, port: 63691
+[INFO] IPv4 supported, port: 59459
+[INFO] IPv6 supported, port: 59460
 [INFO] Server started.
 [INFO] Player connected: lorspi, xuid: 2533274909782977
 [INFO] Player disconnected: lorspi, xuid: 2533274909782977

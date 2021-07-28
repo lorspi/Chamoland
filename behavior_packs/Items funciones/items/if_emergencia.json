@@ -31,14 +31,17 @@
 			"used": {
 				"run_command": {
 					"command": [
-						"summon npc ~ ~1 ~",
-						"dialogue change @e[type=npc,r=2] emergencia",
-						"clear @p if:emergencia 0 1",
 						"effect @p blindness 60",
-						"title @p actionbar §a¡Has invocado ayuda!",
 						"particle minecraft:totem_particle ~ ~1 ~",
-						"playsound random.levelup @p",
-						"dialogue open @e[type=npc,r=2] @p emergencia"
+						"scoreboard objectives add DelayEmergencia dummy",
+						"scoreboard players add @p DelayEmergencia 1",
+						"execute @p[scores={DelayEmergencia=1}] ~ ~ ~ summon npc ~ ~1 ~",
+						"execute @p[scores={DelayEmergencia=1}] ~ ~ ~ dialogue change @e[type=npc,r=2] emergencia",
+						"execute @p[scores={DelayEmergencia=2}] ~ ~ ~ clear @p if:emergencia 0 1",
+						"execute @p[scores={DelayEmergencia=2}] ~ ~ ~ dialogue open @e[type=npc,r=2] @p emergencia",
+						"execute @p[scores={DelayEmergencia=2}] ~ ~ ~ playsound random.levelup @p",
+						"execute @p[scores={DelayEmergencia=2}] ~ ~ ~ title @p actionbar §a¡Has invocado ayuda!",
+						"scoreboard players set @p[scores={DelayEmergencia=2}] DelayEmergencia 0"
 					]
 				}
 			}
