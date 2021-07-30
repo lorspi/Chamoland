@@ -9,3 +9,5 @@ title.if:bolsa_entidad.name=Vasija mágica
 entity.if:bolsa_entidad.name=Vasija mágica
 item.if:invocarbolsa.name=Vara de vasija mágica
 item.if:invocarbolsa=Vara de vasija mágica
+
+item.item:bolsa_entidad.name=Vasija mágica

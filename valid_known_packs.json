@@ -167,7 +167,8 @@
 			"lRzTmspK4OBTyVr7HlbeBsCkPBqPdxtqKewLAmJimjo=",
 			"dsNE/aE2j4mxzlql576crUbCtb52JjQngNvgHAeRLqc=",
 			"FxcqX/BXM7otrVg698DNl4CDj9ZJy9/qAx/lUWaVhHc=",
-			"SyGOEOaZ2aaimN8cDROaZHPW5NLe95Z5wQHVOwOCQ0s="
+			"SyGOEOaZ2aaimN8cDROaZHPW5NLe95Z5wQHVOwOCQ0s=",
+			"RCjWVQi7kbgsw0/cRAEYvUmLdgkBKt58W5pBJc0nzRE="
 		],
 		"path" : "behavior_packs/Items funciones",
 		"uuid" : "4e77ef67-8b7e-4615-80e8-d562661d247c",
@@ -220,6 +221,15 @@
 		"path" : "resource_packs/level storage r",
 		"uuid" : "5ab8fe94-e5e6-45a6-8474-a6b887ecc184",
 		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "6XMc/ZswnQuFneibWRmp3vJ0+UOmU90YQY4Ji3p8CU8=" ],
+		"path" : "resource_packs/Mochilas",
+		"uuid" : "d0107ae8-9cbe-4c67-8330-61356327551e",
+		"version" : "0.0.6"
 	},
 	
 	{
@@ -482,6 +492,19 @@
 		"path" : "behavior_packs/ExpansiveB",
 		"uuid" : "119e211a-5c12-4f47-bf10-3c4ad4bdb30b",
 		"version" : "1.0.4"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : 
+		[
+			"Nt2W9HXaUwD9rnTlBtOSftCcrw9k1DT1bXtg1JbFBms=",
+			"LXKP0e9Xp5bguHJXszuAJy4RaVmEqY8JAhJUHW2R32Q="
+		],
+		"path" : "behavior_packs/Mochilas",
+		"uuid" : "d0107ae8-9cbe-4c67-8330-61356312151e",
+		"version" : "0.0.6"
 	},
 	
 	{
