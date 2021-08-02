@@ -1,21 +1,17 @@
-D:/MEGA/Configuraciones y Partidas de Juegos/Minecraft Bedrock/Chamoland/Servidor-Git/Chamoland/internalStorage/Dedicated_Server.txt
-[2021-07-29 11:50:42 INFO] Starting Server
-[2021-07-29 11:50:42 INFO] Version 1.17.10.04
-[2021-07-29 11:50:42 INFO] Session ID b5913ced-42bd-4dc1-a14d-0a8bdfe3f779
-[2021-07-29 11:50:42 INFO] Level Name: Chamoland
-[2021-07-29 11:50:42 INFO] Game mode: 0 Survival
-[2021-07-29 11:50:42 INFO] Difficulty: 1 EASY
+F:/MEGA/Configuraciones y Partidas de Juegos/Minecraft Bedrock/Chamoland/Servidor-Git/Chamoland/internalStorage/Dedicated_Server.txt
+[2021-08-01 12:43:37 INFO] Starting Server
+[2021-08-01 12:43:37 INFO] Version 1.17.10.04
+[2021-08-01 12:43:37 INFO] Session ID a5946dd1-b7dc-408c-8759-94c74cf22b5d
+[2021-08-01 12:43:37 INFO] Level Name: preChamoland
+[2021-08-01 12:43:37 INFO] Game mode: 0 Survival
+[2021-08-01 12:43:37 INFO] Difficulty: 1 EASY
 [INFO] Experiment(s) active: ddi_, biom, scpt, ucft, gtst
-[INFO] opening worlds/Chamoland/db
+[INFO] opening worlds/preChamoland/db
 [INFO] IPv4 supported, port: 19132
 [INFO] IPv6 supported, port: 19133
-[INFO] IPv4 supported, port: 58260
-[INFO] IPv6 supported, port: 58261
+[INFO] IPv4 supported, port: 62446
+[INFO] IPv6 supported, port: 62447
 [INFO] Server started.
-[INFO] Player connected: lorspi, xuid: 2533274909782977
-[INFO] Player connected: sirpol2713, xuid: 2535468368148891
-[INFO] Player disconnected: lorspi, xuid: 2533274909782977
-[INFO] Player disconnected: sirpol2713, xuid: 2535468368148891
 [INFO] Player connected: lorspi, xuid: 2533274909782977
 [INFO] Player disconnected: lorspi, xuid: 2533274909782977
 [INFO] Server stop requested.

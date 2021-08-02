@@ -17,13 +17,13 @@
             "on_close_commands": [""],
             "buttons": [{
                 "name": "Ganar dinero",
-                "commands": ["/dialogue open @e[type=npc] @p ganar_dinero"]
+                "commands": ["/dialogue open @e[type=npc,r=7] @p ganar_dinero"]
             }, {
                 "name": "Viajar",
-                "commands": ["/dialogue open @e[type=npc] @p viajar"]
+                "commands": ["/dialogue open @e[type=npc,r=7] @p viajar"]
             }, {
                 "name": "Kit de inicio",
-                "commands": ["/dialogue open @e[type=npc] @p kit_inicio"]
+                "commands": ["/dialogue open @e[type=npc,r=7] @p kit_inicio"]
             }]
         }, {
             "scene_tag": "ganar_dinero",
@@ -35,15 +35,15 @@
                 "name": "Recibir dinero",
                 "commands": [
                     "/execute @p[scores={PagarXP=0}] ~ ~ ~ playsound random.break @s",
-                    "/execute @p[scores={PagarXP=0}] ~ ~ ~ dialogue open @e[type=npc] @p dinero_negado",
+                    "/execute @p[scores={PagarXP=0}] ~ ~ ~ dialogue open @e[type=npc,r=7] @p dinero_negado",
                     "/execute @p[scores={PagarXP=1}] ~ ~ ~ give @s appleplus:moneda 5",
                     "/execute @p[scores={PagarXP=1}] ~ ~ ~ playsound random.levelup @s",
                     "/execute @p[scores={PagarXP=1}] ~ ~ ~ xp -15l @s",
-                    "/execute @p[scores={PagarXP=1}] ~ ~ ~ dialogue open @e[type=npc] @p dinero_recibido"
+                    "/execute @p[scores={PagarXP=1}] ~ ~ ~ dialogue open @e[type=npc,r=7] @p dinero_recibido"
                 ]
             }, {
                 "name": "Volver",
-                "commands": ["/dialogue open @e[type=npc] @p inicial"]
+                "commands": ["/dialogue open @e[type=npc,r=7] @p inicial"]
             }]
         }, {
             "scene_tag": "dinero_recibido",
@@ -56,7 +56,7 @@
                 "commands": ["*"]
             }, {
                 "name": "Volver",
-                "commands": ["/dialogue open @e[type=npc] @p ganar_dinero"]
+                "commands": ["/dialogue open @e[type=npc,r=7] @p ganar_dinero"]
             }]
         }, {
             "scene_tag": "dinero_negado",
@@ -69,7 +69,7 @@
                 "commands": ["*"]
             }, {
                 "name": "Volver",
-                "commands": ["/dialogue open @e[type=npc] @p ganar_dinero"]
+                "commands": ["/dialogue open @e[type=npc,r=7] @p ganar_dinero"]
             }]
         }, {
             "scene_tag": "viajar",
@@ -82,7 +82,7 @@
                 "commands": ["/tp @p @e[type=hovertext:warp,name=kzjopw]"]
             }, {
                 "name": "Volver",
-                "commands": ["/dialogue open @e[type=npc] @p inicial"]
+                "commands": ["/dialogue open @e[type=npc,r=7] @p inicial"]
             }]
         }, {
             "scene_tag": "kit_inicio",
@@ -95,13 +95,13 @@
                 "commands": [
                     "/execute @p[scores={RegaloInicial=0}] ~ ~ ~ give @s thelake:lucky_block_vene",
                     "/execute @p[scores={RegaloInicial=0}] ~ ~ ~ playsound random.levelup @s",
-                    "/execute @p[scores={RegaloInicial=0}] ~ ~ ~ dialogue open @e[type=npc] @p kit_recibido",
+                    "/execute @p[scores={RegaloInicial=0}] ~ ~ ~ dialogue open @e[type=npc,r=7] @p kit_recibido",
                     "/execute @p[scores={RegaloInicial=1}] ~ ~ ~ playsound random.break @s",
-                    "/execute @p[scores={RegaloInicial=1}] ~ ~ ~ dialogue open @e[type=npc] @p kit_negado"
+                    "/execute @p[scores={RegaloInicial=1}] ~ ~ ~ dialogue open @e[type=npc,r=7] @p kit_negado"
                 ]
             }, {
                 "name": "Volver",
-                "commands": ["/dialogue open @e[type=npc] @p inicial"]
+                "commands": ["/dialogue open @e[type=npc,r=7] @p inicial"]
             }]
         }, {
             "scene_tag": "kit_recibido",
@@ -114,7 +114,7 @@
                 "commands": ["*"]
             }, {
                 "name": "Volver",
-                "commands": ["/dialogue open @e[type=npc] @p kit_inicio","/scoreboard players set @p RegaloInicial 1"]
+                "commands": ["/dialogue open @e[type=npc,r=7] @p kit_inicio","/scoreboard players set @p RegaloInicial 1"]
             }]
         }, {
             "scene_tag": "kit_negado",
@@ -127,7 +127,7 @@
                 "commands": ["*"]
             }, {
                 "name": "Volver",
-                "commands": ["/dialogue open @e[type=npc] @p kit_inicio"]
+                "commands": ["/dialogue open @e[type=npc,r=7] @p kit_inicio"]
             }]
         }, {
             "scene_tag": "emergencia",
