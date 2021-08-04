@@ -1,20 +1,18 @@
 D:/MEGA/Configuraciones y Partidas de Juegos/Minecraft Bedrock/Chamoland/Servidor-Git/Chamoland/internalStorage/Dedicated_Server.txt
-[2021-08-03 17:45:16 INFO] Starting Server
-[2021-08-03 17:45:16 INFO] Version 1.17.10.04
-[2021-08-03 17:45:16 INFO] Session ID bcc59604-d9db-4536-ac13-f557bb414682
-[2021-08-03 17:45:16 INFO] Level Name: preChamoland
-[2021-08-03 17:45:16 INFO] Game mode: 0 Survival
-[2021-08-03 17:45:16 INFO] Difficulty: 1 EASY
+[2021-08-04 14:49:49 INFO] Starting Server
+[2021-08-04 14:49:49 INFO] Version 1.17.10.04
+[2021-08-04 14:49:49 INFO] Session ID adba124e-d005-4aaa-8bc5-e8dbc5bda761
+[2021-08-04 14:49:49 INFO] Level Name: preChamoland
+[2021-08-04 14:49:49 INFO] Game mode: 0 Survival
+[2021-08-04 14:49:49 INFO] Difficulty: 1 EASY
 [INFO] Experiment(s) active: ddi_, biom, scpt, ucft, gtst
 [INFO] opening worlds/preChamoland/db
 [INFO] IPv4 supported, port: 19132
 [INFO] IPv6 supported, port: 19133
-[INFO] IPv4 supported, port: 58571
-[INFO] IPv6 supported, port: 58572
+[INFO] IPv4 supported, port: 52374
+[INFO] IPv6 supported, port: 52375
 [INFO] Server started.
 [INFO] Player connected: lorspi, xuid: 2533274909782977
-[INFO] Player connected: sirpol2713, xuid: 2535468368148891
 [INFO] Player disconnected: lorspi, xuid: 2533274909782977
-[INFO] Running AutoCompaction...
 [INFO] Server stop requested.
 [INFO] Stopping server...

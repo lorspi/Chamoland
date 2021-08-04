@@ -31,7 +31,7 @@
 			"used": {
 				"run_command": {
 					"command": [
-						"effect @p blindness 60",
+						"effect @p blindness 20",
 						"particle minecraft:totem_particle ~ ~1 ~",
 						"scoreboard objectives add DelayEmergencia dummy",
 						"scoreboard players add @p DelayEmergencia 1",

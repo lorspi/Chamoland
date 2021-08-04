@@ -730,9 +730,9 @@
                 "slots": [
                     {
                         "slot": 0,
-                        "item": "tripwire_hook",
+                        "item": "muc:key",
                         "accepted_items": [
-                            "tripwire_hook"
+                            "muc:key"
                         ],
                         "on_equip": {
                             "event": "backpack:lock"
