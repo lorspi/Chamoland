@@ -58,7 +58,10 @@
 		[
 			"hAWxu/+yPU2+iUVUH71Rr0+kDxTzk2BWkuVlfZxx2Dk=",
 			"qcPSlEkCq1nMWYiGzoQkpYD8wJh1kRclm3O7seEuFIA=",
-			"UXahzIkfv3zL6U9qqp/XIfCts38pSvx0ynLohwI6xaU="
+			"UXahzIkfv3zL6U9qqp/XIfCts38pSvx0ynLohwI6xaU=",
+			"q/gPLnaAmJG71I0kliusAdBOWGMJEMIKHn9PLJZwtHU=",
+			"K6+s0gsVMNa9nCgmL7sSf78lgFghHDKn9gCVdiWfCRk=",
+			"N+omG5tx4j7Z08hSE3ADeEkPDz+NmusXllod8g/+WbI="
 		],
 		"path" : "behavior_packs/StructureImports",
 		"uuid" : "9f26f1b3-2c67-4dcd-9b93-b7d41f20a857",
@@ -257,7 +260,19 @@
 			"Fv7VDwB1AeqUMHA0uS0WK81yU6nNRp9Jn5W1G2W+nTM=",
 			"XXe1EnPiKwk6TswBj3L1TWHZa0mZj2D6MonOyw64E1E=",
 			"U7aQLSTJpw8V73KvbXau+2PgXiybdOfRojQddCkldB8=",
-			"dyljrlHOtL6FhTQBdUlUokUGovPXJLzRL7em5XF4f3g="
+			"dyljrlHOtL6FhTQBdUlUokUGovPXJLzRL7em5XF4f3g=",
+			"bPQp7yFrLjubfBpAnn/+BkickFR0NhglOKLESxEO0Gk=",
+			"lAB+gi3ict598qjOfYOj7ZTU7FF0+nE3CZrNzdevx8c=",
+			"fey+C4Zg0PZPidTSq2e5/Y1YoBrXJjmuc8eiPvZ9doM=",
+			"Ia8R7VizfjUY12NKdfXMGa52O37b6hbXohAwqp6mMjU=",
+			"6t08mKDswtzFdO3oLvkEpoXYeMK1CUooOU+lEnMOzuA=",
+			"dlvswBiDNLDFdvxKwUqtkan1d+RVrm9Tyym6R386nV4=",
+			"jyn4D45/CqX8ifWiU58TXiGudKKwYgZ0UU3WpMapqy0=",
+			"JAlJxju8LOYxyRuhKWA+sRWKcaUaWUiKvIzaSBMD3Kw=",
+			"lmq3nyYqNEGxBefTNPIgQC1EcjXHp9aDUDKuWtVmETg=",
+			"ljo/c4kELslv2eIbOr1ozY2LnLfsAX/8YshDwgAS8Qk=",
+			"BeANa0qg884eWdguMyM+8hPdtBtW6CCC1KFLDnYdaBc=",
+			"dXZLwKc0B97A27aNr537yNI5S5lSzYHUnpIr4nu+XaU="
 		],
 		"path" : "behavior_packs/Comerciantes Applelandia Behavior",
 		"uuid" : "bcbd2957-df3c-416f-5edf-8d8c90a2c687",
@@ -498,7 +513,8 @@
 			"SyGOEOaZ2aaimN8cDROaZHPW5NLe95Z5wQHVOwOCQ0s=",
 			"RCjWVQi7kbgsw0/cRAEYvUmLdgkBKt58W5pBJc0nzRE=",
 			"7uPXAxkP8vw0dTdHrIUmycj/DxNKUY9EyTKPUFvFvNM=",
-			"+754I7BSIf0pyieJspyNYGMLJzBcVBQJy+fWJKNMfaI="
+			"+754I7BSIf0pyieJspyNYGMLJzBcVBQJy+fWJKNMfaI=",
+			"EeSDZaKcUdGhxjpIanbb5QJhmYEbnjWsC4SZ4Z10sBo="
 		],
 		"path" : "behavior_packs/Items funciones",
 		"uuid" : "4e77ef67-8b7e-4615-80e8-d562661d247c",

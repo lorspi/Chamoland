@@ -78,7 +78,7 @@
             "on_open_commands": [""],
             "on_close_commands": [""],
             "buttons": [{
-                "name": "Chamoland",
+                "name": "Hogar",
                 "commands": ["/tp @p @e[type=hovertext:warp,name=kzjopw]"]
             }, {
                 "name": "Volver",
