@@ -5,7 +5,7 @@
             "scene_tag": "arena",
             "npc_name": "Eduardo",
             "text": "Intro arena",
-            "on_open_commands": ["scoreboard objectives add TieneArena dummy"],
+            "on_open_commands": ["scoreboard objectives add TieneArena dummy", "scoreboard objectives add NivelArena dummy"],
             "on_close_commands": [""],
             "buttons": [{
                 "name": "Pelear",
@@ -13,33 +13,32 @@
                     "/execute @p[scores={TieneArena=0}] ~ ~ ~ playsound random.break @s",
                     "/execute @p[scores={TieneArena=0}] ~ ~ ~ dialogue open @e[type=npc,r=7] @p arena_negado",
                     "/execute @p[scores={TieneArena=1}] ~ ~ ~ playsound random.levelup @s",
-                    "/execute @p[scores={TieneArena=1}] ~ ~ ~ dialogue open @e[type=npc,r=7] @p nivel_uno"
+                    "/execute @p[scores={TieneArena=1}] ~ ~ ~ dialogue open @e[type=npc,r=7] @p entrada_arena"
                 ]
             }, {
                 "name": "Entrar",
                 "commands": ["/tp @p 2053 84 -2931"]
             }]
         }, {
-            "scene_tag": "nivel_uno",
+            "scene_tag": "entrada_arena",
             "npc_name": "Eduardo",
-            "text": "Entrar al Nivel 1",
+            "text": "Entrar a pelear...",
             "on_open_commands": [""],
             "on_close_commands": [""],
             "buttons": [{
                 "name": "Empezar",
                 "commands": [
-                    "/clear @p appleplus:cluster_de_almas 0 1",
-                    "/summon zombie §4Esbirro 2141 82 -2947",
-                    "*/summon zombie §4Esbirro 2049 82 -2939",
-                    "/summon zombie §4Esbirro 2064 82 -2944",
-                    "*/summon zombie §4Esbirro 2058 82 -2939",
-                    "/summon zombie §4Esbirro 2064 82 -2919",
-                    "*/summon zombie §4Esbirro 2056 85 -2919",
-                    "/summon zombie §4Esbirro 2039 82 -2919",
-                    "*/summon zombie §4Esbirro 2043 82 -2924",
-                    "/tp @p 2052 82 -2931",
-                    "/title @p title §4§l¡EMPIEZA EL COMBATE!",
-                    "/playsound mob.wither.spawn @p"
+                    "execute @e[name=Puntos,scores={NivelArena=0}] ~ ~ ~ clear @p appleplus:cluster_de_almas 0 1",
+                    "execute @e[name=Puntos,scores={NivelArena=0}] ~ ~ ~ summon zombie §4Esbirro 2041 82 -2947",
+                    "execute @e[name=Puntos,scores={NivelArena=0}] ~ ~ ~ summon zombie §4Esbirro 2064 82 -2944",
+                    "execute @e[name=Puntos,scores={NivelArena=0}] ~ ~ ~ tp @p 2052 85 -2931",
+                    "execute @e[name=Puntos,scores={NivelArena=0}] ~ ~ ~ title @p title §4§l¡RONDA 1!",
+                    "execute @e[name=Puntos,scores={NivelArena=0}] ~ ~ ~ playsound mob.wither.spawn @p",
+                    "execute @e[name=Puntos,scores={NivelArena=1}] ~ ~ ~ title @p title §c§l¡Combate en progreso!",
+                    "execute @e[name=Puntos,scores={NivelArena=2}] ~ ~ ~ title @p title §c§l¡Combate en progreso!",
+                    "execute @e[name=Puntos,scores={NivelArena=3}] ~ ~ ~ title @p title §c§l¡Combate en progreso!",
+                    "execute @e[name=Puntos,scores={NivelArena=4}] ~ ~ ~ title @p title §c§l¡Combate en progreso!",
+                    "execute @e[name=Puntos,scores={NivelArena=0}] ~ ~ ~ scoreboard players add @e[name=Puntos] NivelArena 1"
                 ]
             }, {
                 "name": "Cancelar",
