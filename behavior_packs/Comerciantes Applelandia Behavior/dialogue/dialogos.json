@@ -81,6 +81,9 @@
                 "name": "Hogar",
                 "commands": ["/tp @p @e[type=hovertext:warp,name=kzjopw]"]
             }, {
+                "name": "Arena PVE",
+                "commands": ["/tp @p @e[type=hovertext:warp,name=updoie]"]
+            }, {
                 "name": "Volver",
                 "commands": ["/dialogue open @e[type=npc,r=7] @p inicial"]
             }]
