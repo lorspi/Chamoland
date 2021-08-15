@@ -10,4 +10,4 @@ kill @e[type=enderman,r=80]
 kill @e[type=wandering_trader,r=80]
 kill @e[type=zombie,name=!"§4Esbirro",r=80]
 
-kill @e[type=item,rm=24,r=100]
+kill @e[type=item,rm=53,r=140]

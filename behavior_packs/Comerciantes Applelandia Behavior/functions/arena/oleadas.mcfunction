@@ -1,4 +1,5 @@
-execute @e[name=Puntos,scores={NivelArena=3}] ~ ~ ~ title @p title §2Has terminado. Dirígete a la salida.
+execute @e[name=Puntos,scores={NivelArena=3}] ~ ~ ~ title @p subtitle §7§oDirígete a la salida para recibir tus premios.
+execute @e[name=Puntos,scores={NivelArena=3}] ~ ~ ~ title @p title §2¡Has terminado!
 execute @e[name=Puntos,scores={NivelArena=3}] ~ ~ ~ scoreboard players add @e[name=Puntos] NivelArena 1
 
 execute @e[name=Puntos,scores={NivelArena=2}] ~ ~ ~ give @p appleplus:moneda 3
