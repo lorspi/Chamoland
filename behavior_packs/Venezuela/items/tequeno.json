@@ -2,7 +2,8 @@
   "format_version": "1.12",
   "minecraft:item": {
     "description": {
-      "identifier": "venezuela:tequeno"
+      "identifier": "venezuela:tequeno",
+      "register_to_creative_menu": true
     },
     "components": {
       "minecraft:max_stack_size": 64,
@@ -10,7 +11,9 @@
       "minecraft:food": {
         "nutrition": 3,
         "nutritionalValue": "low",
-        "saturation_modifier": "low"
+        "saturation_modifier": "low",
+        "can_always_eat": false,
+        "is_meat": false
       }
     }
   }
